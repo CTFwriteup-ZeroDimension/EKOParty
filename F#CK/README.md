@@ -1,5 +1,5 @@
 # F#CK (reverse 50)
-It's a .net assembly. Use dotPeek to reverse the code.  
+It's a .net assembly. Use dotPeek to decompile it.  
 Find the Program class under root namespace.  
 ``` c#
 // Decompiled with JetBrains decompiler
